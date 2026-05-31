@@ -1,10 +1,10 @@
-## Hey, I'm Paarth 👋
+## Hey, I'm Paarth 
 
 I'm a product and AI strategy guy who also builds things.
 
 Columbia MS (Technology Management) grad, based in NYC. My background spans AI product development, growth, and enterprise deployment. I care most about the gap between what AI can do and what actually gets adopted in the real world.
 
-Currently exploring roles in **AI Product Management** and **Solutions Consulting**.
+Currently exploring roles in **AI Product Management** and **Solutions and Strategy Consulting**.
 
 ---
 
